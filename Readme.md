@@ -4,7 +4,7 @@
   
 
 # <div align="center">I'm M Fahad Iqbal
-<h3>Self-motivated IT professional 👨‍💻 with extensive experience in web design, web development, SEO/SEM, graphic design, WordPress, Squarespace, Shopify, e-commerce, Android apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer.</h3>  🚀</div>  
+<h3>Self-motivated IT professional 👨‍💻 with extensive experience in web design, web development, SEO/SEM, graphic design, WordPress, Squarespace, Shopify, e-commerce, Android apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3> </div>  
   
 
 - 🔭 I’m currently working on [e-Commerce](https://www.furwide.com/)  
