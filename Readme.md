@@ -181,4 +181,4 @@
 <br />
 
 ----
-<div align="center">Copyright &#169; <script>document.write(new Date().getFullYear());</script> <a href="https://www.mfahadiqbal.com" target="_blank">M Fahad Iqbal</a> - GitHub</div>
+<div align="center">Copyright &#169; currentYear(str, d) <a href="https://www.mfahadiqbal.com" target="_blank">M Fahad Iqbal</a> - GitHub</div>
