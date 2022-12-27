@@ -145,7 +145,7 @@ Self-motivated IT professional 👨‍💻 with extensive experience in web desi
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<div><a href="https://www.mfahadiqbal.com/blog">Click Me to View the recent blog posts</a></div>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
