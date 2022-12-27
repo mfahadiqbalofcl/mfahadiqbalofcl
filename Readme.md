@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Fahad Iqbal</h1>
-<h3 align="center">Self-motivated IT professional individual with a lot of Web Designing, Web Development, SEO/SEM, Graphic Designing, WordPress, Squarespace, Shopify, e-commerce, Android Apps, and other technology experience, among other things. Very detail-oriented and dedicated to excellence. I'm very passionate to learn new technologies and become a Best Full-Stack Developer.
-</h3>
+<h3 align="center">Self-motivated IT professional with extensive experience in web design, web development, SEO/SEM, graphic design, WordPress, Squarespace, Shopify, e-commerce, Android apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfahadiqbalofcl&label=Profile%20views&color=0e75b6&style=flat" alt="mfahadiqbalofcl" /> </p>
 
