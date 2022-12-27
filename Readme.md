@@ -181,6 +181,4 @@
 <br />
 
 ----
-<div align="center">Copyright &#169; <script type="module">
-import date from 'https://github.com/knowledgecode/date-and-time/blob/master/date-and-time.min.js';
-</script> <a href="https://www.mfahadiqbal.com" target="_blank">M Fahad Iqbal</a> - GitHub</div>
+<div align="center">Copyright &#169; 2022 <a href="https://www.mfahadiqbal.com" target="_blank">M Fahad Iqbal</a> - GitHub</div>
