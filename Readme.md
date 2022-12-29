@@ -1,5 +1,5 @@
-<div align="center" style="width: 480px;height:201px;background: #f2f2f2;">
-<img src="https://res.cloudinary.com/m-fahad-iqbal/image/upload/v1672323342/greetings.gif" align="center" style="width: 100%" />
+<div align="center" style="">
+<img src="https://res.cloudinary.com/m-fahad-iqbal/image/upload/v1672323342/greetings.gif" align="center" style="width: 480px;height:auto;background: #f2f2f2;" />
 </div>  
   
 
