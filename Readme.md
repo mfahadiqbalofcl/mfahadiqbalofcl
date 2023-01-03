@@ -6,9 +6,7 @@
 # <div align="center">I'm M Fahad Iqbal
 <h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3> </div>  
   
-<tbody>
-  <tr>
-    <td width="49%">
+
 - 🔭 I’m currently working on [e-Commerce](https://www.furwide.com/)  
   
 
@@ -20,14 +18,9 @@
 
 - ⚡ Fun fact: I use Designers to implement my creativity  
   
-</td>
+
 <br/>  
     
-<td with="49%">
-<a href="https://app.daily.dev/mfahadiqbal"><img src="https://api.daily.dev/devcards/14c8bf551e604ee8a96da7592ab5bb0d.png?r=g5k" width="400" alt="M Fahad Iqbal's Dev Card"/></a>
-    </td>
-</tr>
-</tbody>
 
 ## Languages and Tools  
 <div align="center">  
