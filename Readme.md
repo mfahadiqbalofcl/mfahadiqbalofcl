@@ -20,8 +20,9 @@
 
 - ⚡ Fun fact: I use Designers to implement my creativity  
   
-
+</td>
 <br/>  
+    
 <td with="49%">
 <a href="https://app.daily.dev/mfahadiqbal"><img src="https://api.daily.dev/devcards/14c8bf551e604ee8a96da7592ab5bb0d.png?r=g5k" width="400" alt="M Fahad Iqbal's Dev Card"/></a>
     </td>
