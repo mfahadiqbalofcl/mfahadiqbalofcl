@@ -107,7 +107,7 @@
 <a href="https://www.behance.net/mfahadiqbal" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/mfahadiqbal" target="_blank">
+<a href="https://www.youtube.com/channel/UCgKn3p8tmjRiT1rfNrKzEWg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
