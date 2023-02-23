@@ -12,7 +12,8 @@
   <tr>
     
   <td width="50%">
-- 🔭 I’m currently working on [e-Commerce](https://www.furwide.com/)  
+    
+- 🔭 I’m currently working on ![e-Commerce](https://www.furwide.com/)  
   
 
 - 🌱 I’m currently Focused on MERN Stack, Python  
