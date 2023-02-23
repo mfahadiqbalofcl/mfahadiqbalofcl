@@ -7,7 +7,7 @@
 <h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3> </div>  
   
   
-  <table>
+  <table align="center">
 
   <tr>
     
