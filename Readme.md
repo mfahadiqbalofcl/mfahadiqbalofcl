@@ -26,7 +26,7 @@
     
   </td>
   
-  <td width="50%" align="center" valign="center">
+  <td width="50%" align="center" valign="middle">
     
     <!-- Markdown -->
 
