@@ -182,7 +182,7 @@
 
 <br/>  
 
-<img src="https://raw.githubusercontent.com/m/m/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{mfahadiqbalofcl}}/{{mfahadiqbalofcl}}/blob/output/github-contribution-grid-snake.svg)
 
 <br />
 
