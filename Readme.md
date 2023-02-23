@@ -11,7 +11,7 @@
 
   <tr>
     
-  <td width="50">
+  <td width="50%">
 - 🔭 I’m currently working on [e-Commerce](https://www.furwide.com/)  
   
 
@@ -25,7 +25,7 @@
     
   </td>
   
-  <td width="50">
+  <td width="50%">
     
     <!-- Markdown -->
 
