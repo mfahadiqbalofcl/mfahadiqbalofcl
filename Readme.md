@@ -180,9 +180,6 @@
                 />
             </a></div>  
 
-<br/>  
-
-![Snake animation](https://github.com/{{mfahadiqbalofcl}}/{{mfahadiqbalofcl}}/blob/output/github-contribution-grid-snake.svg)
 
 <br />
 
