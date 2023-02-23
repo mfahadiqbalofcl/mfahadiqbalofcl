@@ -7,8 +7,10 @@
 <h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3> </div>  
   
   
-  
+  <div style="display: flex;justify-content: space-between;align-items: center;">
 
+  <div style="width: 48%;">
+  
 - 🔭 I’m currently working on [e-Commerce](https://www.furwide.com/)  
   
 
@@ -19,7 +21,18 @@
   
 
 - ⚡ Fun fact: I use Designers to implement my creativity  
+    
+  </div>
   
+  <div style="width: 48%;">
+    
+    <!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+    
+  </div>
+  
+  </div>
 
 <br/>  
     
