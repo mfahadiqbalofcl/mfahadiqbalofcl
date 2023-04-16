@@ -186,4 +186,4 @@
 <br />
 
 ----
-<div align="center">Copyright &#169; 2022 <a href="https://www.mfahadiqbal.com" target="_blank">M Fahad Iqbal</a> - GitHub</div>
+<div align="center">Copyright &#169; 2023 <a href="https://www.mfahadiqbal.com" target="_blank">M Fahad Iqbal</a> - GitHub</div>
