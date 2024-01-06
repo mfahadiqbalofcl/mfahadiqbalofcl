@@ -3,8 +3,13 @@
 </div>  
   
 
-# <div align="center">I'm M Fahad Iqbal
-<h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3> <a href="https://app.daily.dev/mfahadiqbal"><img src="https://api.daily.dev/devcards/14c8bf551e604ee8a96da7592ab5bb0d.png?r=pln" width="400" alt="M Fahad Iqbal's Dev Card"/></a> </div>  
+<div align="" style="display: flex; justify-content: space-around; width: 100%;">
+    <div style="width: 60%;">
+        <h1>I'm M Fahad Iqbal</h1>
+        <h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, [/* ... */]</h3>
+    </div>
+    <img src="your-image-url.jpg" alt="alternate-text" style="width: 40%;"/>
+</div>
   
   
   <table align="center">
