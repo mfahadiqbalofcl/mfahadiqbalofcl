@@ -3,12 +3,14 @@
 </div>  
   
 
-<div align="" style="display: flex; justify-content: space-around; width: 100%;">
+<div style="display: flex; width: 100%;">
+  <h1>I'm M Fahad Iqbal <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1> 
     <div style="width: 60%;">
-        <h1>I'm M Fahad Iqbal <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1> 
         <h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3>
     </div>
+  <div style="width: 40%;">
    <a href="https://app.daily.dev/mfahadiqbal" style="text-aign: right;"><img src="https://api.daily.dev/devcards/14c8bf551e604ee8a96da7592ab5bb0d.png?r=c9g" width="150px" alt="M Fahad Iqbal's Dev Card"/></a>
+    </div>
 </div>
   
   
