@@ -5,7 +5,7 @@
 
 <div align="" style="display: flex; justify-content: space-around; width: 100%;">
     <div style="width: 60%;">
-        <h1>I'm M Fahad Iqbal</h1>
+        <h1>I'm M Fahad Iqbal <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1> 
         <h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3>
     </div>
    <a href="https://app.daily.dev/mfahadiqbal"><img src="https://api.daily.dev/devcards/14c8bf551e604ee8a96da7592ab5bb0d.png?r=c9g" style="width: 40%; alt="M Fahad Iqbal's Dev Card"/></a>
@@ -46,7 +46,7 @@
 <br/>  
     
 
-## Languages and Tools  
+## Languages and Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50"></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"></a>  
@@ -103,7 +103,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px>
 <div align="center">
 <a href="https://github.com/mfahadiqbalofcl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
