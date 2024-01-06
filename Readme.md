@@ -4,7 +4,7 @@
   
 
 # <div align="center">I'm M Fahad Iqbal
-<h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3> </div>  
+<h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3> <a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a> </div>  
   
   
   <table align="center">
