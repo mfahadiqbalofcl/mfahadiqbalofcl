@@ -8,7 +8,7 @@
         <h1>I'm M Fahad Iqbal <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></h1> 
         <h3>Self-motivated IT professional 👨‍💻 with extensive experience in Web Designing, Web Development, SEO/SEM, Graphic Design, WordPress, Squarespace, Shopify, e-Commerce, Android Apps, and other areas. Very detail-oriented and dedicated to excellence. I'm very passionate about learning new technologies and becoming a full-stack developer. 🚀</h3>
     </div>
-   <a href="https://app.daily.dev/mfahadiqbal"><img src="https://api.daily.dev/devcards/14c8bf551e604ee8a96da7592ab5bb0d.png?r=c9g" style="width: 40%; alt="M Fahad Iqbal's Dev Card"/></a>
+   <a href="https://app.daily.dev/mfahadiqbal" style="text-aign: right;"><img src="https://api.daily.dev/devcards/14c8bf551e604ee8a96da7592ab5bb0d.png?r=c9g" width="150px" alt="M Fahad Iqbal's Dev Card"/></a>
 </div>
   
   
