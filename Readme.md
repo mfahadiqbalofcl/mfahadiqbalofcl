@@ -1,6 +1,6 @@
 # M Fahad Iqbal
 
-**WordPress & WooCommerce developer — custom plugins, Shopify, and AI automation.**
+**WordPress & WooCommerce developer: custom plugins, Shopify, and AI automation.**
 
 I build the parts of a site that off-the-shelf themes and plugins can't: booking systems, custom cart drawers, LMS setups, portal dashboards, and WooCommerce logic that fits the business instead of forcing the business to fit the tool. When a project calls for it, I also work in Shopify (themes, Liquid, custom apps), React/Next.js on the front end, and Laravel/PHP on the back.
 
@@ -10,11 +10,11 @@ Self-taught, around seven years in. I learned this by shipping real things for r
 
 ### What I'm focused on
 
-- **Custom WordPress & WooCommerce plugins** — practical, reviewable tools that solve a specific store or workflow problem.
-- **AI automation** — n8n workflows, Shopify content automation, and Claude + MCP tooling wired into real client pipelines.
-- **Python utilities** — small, sharp tools for content, data, and automation.
+- **Custom WordPress & WooCommerce plugins:** practical, reviewable tools that solve a specific store or workflow problem.
+- **AI automation:** n8n workflows, Shopify content automation, and Claude + MCP tooling wired into real client pipelines.
+- **Python utilities:** small, sharp tools for content, data, and automation.
 
-I'm moving my plugin, automation, and Python work into public repos over the coming months — each with a real README, a clear problem statement, and a license. This profile is a starting point, not a finished portfolio.
+I'm moving my plugin, automation, and Python work into public repos over the coming months, each with a real README, a clear problem statement, and a license. This profile is a starting point, not a finished portfolio.
 
 ---
 
@@ -37,7 +37,7 @@ I'm moving my plugin, automation, and Python work into public repos over the com
 
 ### Work with me
 
-I take on freelance and contract work — custom WordPress/WooCommerce builds, Shopify development, and automation. If you're a store owner, agency, or fellow developer who needs the hard part built properly, get in touch.
+I take on freelance and contract work: custom WordPress/WooCommerce builds, Shopify development, and automation. If you're a store owner, agency, or fellow developer who needs the hard part built properly, get in touch.
 
 [![Website](https://img.shields.io/badge/Website-mfahadiqbal.com-1f6feb?style=flat&logo=googlechrome&logoColor=white)](https://mfahadiqbal.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20me-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mfahadiqbalofcl)
@@ -45,4 +45,4 @@ I take on freelance and contract work — custom WordPress/WooCommerce builds, S
 
 ---
 
-<sub>Most of my client work lives in private repos, so the activity graph here is only part of the picture — the pinned projects show what I build in the open.</sub>
+<sub>Most of my client work lives in private repos, so the activity graph here is only part of the picture. The pinned projects show what I build in the open.</sub>
